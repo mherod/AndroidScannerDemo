@@ -2,8 +2,9 @@
 .DS_Store
 **/.DS_Store
 
-**/local.properties
+/local.properties
 
-/.idea/**
-**/.gradle/**
-**/.idea/workspace.xml
+/.gradle/**
+/.idea/workspace.xml
+
+build/generated/**
