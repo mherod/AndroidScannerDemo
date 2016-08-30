@@ -1,6 +1,7 @@
 
 .DS_Store
+**/.DS_Store
 
-ScanDemoExample/local.properties
+**/local.properties
 
-.DS_Store
+/.idea/**
